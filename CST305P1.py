@@ -1,5 +1,5 @@
 #CST-305 Project 1 - Matthew Powers and Wesley Baker 
-#This project is a first-order differential equation that is modeling GPU temperature cooling down after running an application requiring a lot of performance and it's effect given the room's temperature.
+#This project is a first-order differential equation that is modeling GPU temperature cooling down after running an application requiring a lot of performance and it's effect given the room's temperature. Based off of Newton's Law of Cooling.
 
 import numpy as np
 from scipy.integrate import odeint
